@@ -1,0 +1,8 @@
+# General collection information
+description: "This is the description"
+
+# defines the bootstrap file to use
+bootstrapper: "bootstrap.sh"
+
+# configurable variables
+vars:

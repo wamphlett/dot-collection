@@ -1,4 +1,0 @@
-# Because this is running inside dot-collections, we have to get the relative path to this file
-COLLECTION=$(dirname $0)
-# Define some aliases
-source $COLLECTION/.aliases
