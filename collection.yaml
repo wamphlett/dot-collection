@@ -1,5 +1,5 @@
 # General collection information
-description: "This is the description"
+description: "Example collection"
 
 # defines the bootstrap file to use
 bootstrapper: "bootstrap.sh"
